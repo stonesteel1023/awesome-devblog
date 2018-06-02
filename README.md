@@ -687,6 +687,7 @@ Tag Cloud
 | 최백준 | http://www.baekjoon.com/ | 알고리즘 |  |
 | 최범균 | http://javacan.tistory.com/ | Java | [![](icons/rss-icon.png)](http://javacan.tistory.com/rss) |
 | 최석균 | http://syaku.tistory.com/ | Full-stack | [![](icons/rss-icon.png)](http://syaku.tistory.com/rss)[![](icons/facebook-icon.png)](https://www.facebook.com/syakuis)[![](icons/github-icon.png)](https://github.com/syakuis) |
+| 최석철 | https://stonesteel1023.github.io/ | SIer | [![](icons/github-icon.png)](https://github.com/stonesteel1023) |
 | 최성재 | http://yumere.tistory.com/ | Paper Review | [![](icons/rss-icon.png)](http://yumere.tistory.com/rss) |
 | 최수원 | http://cionman.tistory.com/ | Linux | [![](icons/rss-icon.png)](http://cionman.tistory.com/rss) |
 | 최승필 | https://brunch.co.kr/@pilsogood | 트립그리다 | [![](icons/rss-icon.png)](https://brunch.co.kr/rss/@@1iQC) |
